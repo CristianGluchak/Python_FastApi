@@ -48,8 +48,7 @@ $ http GET :8080/1
     "item": "lata",
     "preco_unitario": 4,
     "quantidade": 5
-    
-    }
+  }
 
 
 ```
